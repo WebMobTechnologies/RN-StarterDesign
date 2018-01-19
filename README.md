@@ -1,4 +1,4 @@
-# RN-StarterDesign
+# React Native Starter Design
 
 ## Description
    Starter app design for React Native. Both working on Android and Ios. Use custom components, validations, React Navigation, 
